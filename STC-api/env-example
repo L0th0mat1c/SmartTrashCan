@@ -1,0 +1,7 @@
+PORT=[Number]
+BASE_URL=[String]
+TOKEN_SECRET=["String"]
+ADMIN=[String]
+DBNAME=[String]
+DBURL=["String"]
+TOKEN_KEY=[String]

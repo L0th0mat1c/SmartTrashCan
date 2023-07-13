@@ -1,0 +1,8 @@
+{
+  "name": "api_riot",
+  "version": "1.0.0",
+  "description": "API for IOT-VR project.",
+  "author": "T-DEV-811-groupe13",
+  "license": "ISC",
+  "more": "/api-docs"
+}
